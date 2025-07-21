@@ -4,6 +4,7 @@ This is where you'll be able to download the technical demos I have been working
 To summarize :
 
 -- Finished --
+
 --- post_office.bin : I love the animation in this one and the color palette
 
 --- rom_bakery_minish_cap.bin : Another nice place I managed to recreate in game
@@ -19,11 +20,13 @@ To summarize :
 --- title_screen.bin : The tile screen, best recreation I did, but can always be improved.
   
 -- In development --
+
 --- lonlon_ranch.bin : This one is currently in development, I was checking how many sprites I could have one screen while having a decent looking map
 
 --- south_hyrule_map.bin : Attempt to recreate a large field, that was supposed to be where my demo would start, I'll surely redo it completely now that I know how to handle large areas (thanks to the Lonlon ranch).
 
 -- Abandoned -- 
+
 --- hyrule_city.bin : You can explore parts of Hyrule city, it's really buggy
 
 --- hyrule_town_v0.01.bin : The first "encounter" I developed back in the day against a monster
