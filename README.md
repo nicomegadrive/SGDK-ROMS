@@ -1,15 +1,17 @@
 # SGDK-ROMS
 This is where you'll be able to download the technical demos I have been working on SGDK.
 
-To summarize :
+I started this project years ago because I wanted to prove that a game like Zelda the Minish Cap with great pixel art could have been handled by the Megadrive and that more action adventure games like Zelda could have been developed back in the day.
+
+A bit of explanations for all the demos on this page :
 
 -- Finished --
 
---- post_office.bin : I love the animation in this one and the color palette
-
---- rom_bakery_minish_cap.bin : Another nice place I managed to recreate in game
-
 --- witch_hut.bin : One of my favourite place to recreate, that one had many versions before I managed to display all the sprites, animations, and use the best palette colors, love the music as well !
+
+--- post_office.bin : I love the animation in this one and the color palette (it's missing the postman running and coming out of the building though)
+
+--- rom_bakery_minish_cap.bin : Another nice place I managed to recreate in game, as a french I couldn't not make it.
 
 --- malon_house_01.bin / malon_house_02.bin : My first try recreate Malon's house while keeping the overall decent looking
 
