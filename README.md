@@ -7,6 +7,8 @@ A bit of explanations for all the demos on this page :
 
 -- Finished --
 
+--- epilogue.bin : Stupid epilogue I did for the game, I tried to convert the pictures the best I could, it was also my first time dealing with multiple "dialogs" (and obviously not being able to do it well), keep the B button pressed to see the next texts.
+
 --- witch_hut.bin : One of my favourite place to recreate, that one had many versions before I managed to display all the sprites, animations, and use the best palette colors, love the music as well !
 
 --- post_office.bin : I love the animation in this one and the color palette (it's missing the postman running and coming out of the building though)
